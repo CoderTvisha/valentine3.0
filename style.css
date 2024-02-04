@@ -1,0 +1,60 @@
+#text {
+  text-align: center;
+  margin-top: 20%;
+  font-size: 30px;
+  letter-spacing: 3px;
+  color: #0b60b0;
+  text-shadow: 2px 2px 5px aliceblue;
+}
+
+body {
+  font-family: "Cherry Bomb One", system-ui;
+
+  background: #56ccf2; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #2f80ed,
+    #56ccf2
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #2f80ed,
+    #56ccf2
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#runaway-btn {
+  position: absolute;
+  color: white;
+  top: 70%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  height: 4rem;
+  width: 10rem;
+  font-size: 30px;
+  border-radius: 5px;
+  font-family: "Cherry Bomb One", system-ui;
+  border: none;
+  box-shadow: 1px 1px 5px black;
+  background-color: #0b60b0;
+}
+
+#btn {
+  position: absolute;
+  color: white;
+  top: 70%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  height: 4rem;
+  width: 10rem;
+  font-size: 30px;
+  border-radius: 5px;
+  font-family: "Cherry Bomb One", system-ui;
+  border: none;
+  box-shadow: 1px 1px 5px black;
+  background-color: #0b60b0;
+}
+
+#btn:hover {
+  background-color: #40a2d8;
+}

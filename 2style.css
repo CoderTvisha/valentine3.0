@@ -1,0 +1,12 @@
+body{
+	background-color: #9D76C1;
+	  font-family: "Cherry Bomb One", system-ui;
+	letter-spacing: 3px;
+	text-align:center;
+	margin-top:10%;
+}
+
+h1{
+	color: #3C0753;
+	text-shadow: 2px 2px 2px white;
+}
